@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+   tod sedbrook tod.sedbrook@gmail
     <name> -- <role> -- <twitter>
 
 # THANKS
