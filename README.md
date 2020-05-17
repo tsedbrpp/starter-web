@@ -12,3 +12,7 @@ added under introduction
 
 ### Copyright
 2019
+
+## How to contribute
+
+fork requests
