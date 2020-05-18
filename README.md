@@ -13,7 +13,7 @@ this is the introduction
 added under introduction
 
 ### Copyright
-2019
+2019 all rights reserved
 
 ## How to contribute
 
